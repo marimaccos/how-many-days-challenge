@@ -1,0 +1,15 @@
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\bin\Debug\net6.0\how-many-days-challenge.exe
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\bin\Debug\net6.0\how-many-days-challenge.deps.json
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\bin\Debug\net6.0\how-many-days-challenge.runtimeconfig.json
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\bin\Debug\net6.0\how-many-days-challenge.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\bin\Debug\net6.0\how-many-days-challenge.pdb
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.csproj.AssemblyReference.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.AssemblyInfoInputs.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.AssemblyInfo.cs
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.csproj.CoreCompileInputs.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\refint\how-many-days-challenge.dll
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.pdb
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\how-many-days-challenge.genruntimeconfig.cache
+C:\Arquivo-Mariana\Repositorios\workspace-C#\how-many-days-challenge\obj\Debug\net6.0\ref\how-many-days-challenge.dll
